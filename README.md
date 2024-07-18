@@ -1,4 +1,4 @@
-# -The-improved-consensus-algorithm-N-PBFT-
+# N-PBFT
 N-PBFT的测试代码
 
 论文Improved Pbft Consensus Based on Reputation
