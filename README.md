@@ -1,2 +1,2 @@
 # -The-improved-consensus-algorithm-N-PBFT-
-N-PBFT与PBFT的测试代码
+N-PBFT的测试代码
